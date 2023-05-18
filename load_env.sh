@@ -1,0 +1,9 @@
+#!/bin/bash
+
+export NODE_ENV=
+export PAYSTACK_SECRET_KEY=
+export DATABASE_USER=
+export DATABASE_PASSWORD=
+export DATABASE_DB=
+export DATABASE_HOST=
+export DATABASE_PORT=
