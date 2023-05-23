@@ -1,8 +1,6 @@
-# Backdrop Assessment
+# LendSqr Backend Assessment
 
-### Description
-
-#### Quick summary:
+### Quick summary:
 
 An app to demonstrate my understanding of System design in a [real world scenario](./instructions.md).
 
